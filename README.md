@@ -1,4 +1,5 @@
-![16eiqpG](https://github.com/23Serhii/flutter_weatherForecast_screen/assets/124668730/58d5f997-6637-4ae9-866b-b2c9fac23bac)# Weather Forecast
+
+# Weather Forecast
 
 ## Overview:
 "Weather Forecast" is your go-to companion for staying informed about the ever-changing atmospheric conditions. This Dart/Flutter-powered application provides accurate and real-time weather updates, ensuring you're equipped with the knowledge to plan your day effectively.
@@ -41,4 +42,4 @@ Whether you're planning a weekend getaway, daily commute, or outdoor activities,
 
 # Screens: 
 
-![Screenshot](blob:https://imgur.com/389db630-6004-4784-a8bb-57ca3fd5a569)
+![16eiqpG](https://github.com/23Serhii/flutter_weatherForecast_screen/assets/124668730/58d5f997-6637-4ae9-866b-b2c9fac23bac)
